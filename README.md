@@ -55,8 +55,8 @@ fc-cache -fv
     "security.workspace.trust.untrustedFiles": "open",
     "explorer.confirmDragAndDrop": false,
     "editor.fontLigatures": true,
-    "terminal.integrated.fontFamily": "Hack Nerd Font Mono",
-    "editor.fontFamily": "\"cascadia code\"",
+    "terminal.integrated.fontFamily": "\"Cascadia Mono\", \"Hack Nerd Font Mono\"",
+    "editor.fontFamily": "\"Cascadia Code\", \"Hack Nerd Font\""
     "editor.fontSize": 18,
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": "active",
